@@ -5,3 +5,4 @@ Git tracks changes.
 Boss stupid.
 hahaha
 look this 
+Creating a new branch is quick.
