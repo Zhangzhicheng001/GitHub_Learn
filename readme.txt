@@ -7,3 +7,4 @@ hahaha
 look this 
 Creating a new branch is quick AND simple.
 dev branch
+this is v2.0
